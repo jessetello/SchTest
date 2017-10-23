@@ -1,0 +1,6 @@
+framework module Pods_SchTest {
+  umbrella header "Pods-SchTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
